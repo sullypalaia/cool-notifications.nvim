@@ -1,0 +1,9 @@
+# cool-notifications.nvim
+
+## Overview
+
+This plugin provide a new function definition for Neovim's `vim.notify` function. Based on the value of `vim.log.levels`, the border of the window will use a different color to represent the log level.
+
+## Installation
+
+Assuming the plugin is in the _runtimepath_, the setup function can be called with `require("cool-notifications").setup({})` (or with your preferred plugin manager). Currently, there are no available options, but support for customization will be added in future updates.  
