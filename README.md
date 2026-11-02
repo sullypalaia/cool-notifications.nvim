@@ -2,7 +2,7 @@
 
 ## Overview
 
-This plugin provide a new function definition for Neovim's `vim.notify` function. Based on the value of `vim.log.levels`, the border of the window will use a different color to represent the log level.
+This plugin provide a new function definition for Neovim's `vim.notify` function. Based on the value of `vim.log.levels`, the border of the window will use a different color to represent the log level. Additionally, the notification has animations for sliding on to and off of the editor.
 
 ## Installation
 
